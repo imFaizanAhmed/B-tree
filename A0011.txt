@@ -1,0 +1,15 @@
+4  
+0
+A0009.txt
+2016
+NoDublicate test_1.csv 23
+A0012.txt
+2019
+NoDublicate test_1.csv 26
+No  Child
+2020
+NoDublicate test_1.csv 27
+No  Child
+0
+NoDublicate test_1.csv 28
+No  Child
